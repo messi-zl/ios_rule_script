@@ -18,7 +18,7 @@ HOST,download.jetbrains.com,China
 HOST,file-igamecj.akamaized.net,China
 HOST,images-cn.ssl-images-amazon.com,China
 HOST,ip.istatmenus.app,China
-HOST,mtalk.google.com,China
+;HOST,mtalk.google.com,China
 HOST,officecdn-microsoft-com.akamaized.net,China
 HOST,safebrowsing.googleapis.com,China
 HOST,sms.imagetasks.com,China
