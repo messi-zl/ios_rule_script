@@ -7,13 +7,14 @@
 # IP-CIDR: 9
 # TOTAL: 25
 HOST-SUFFIX,cdninstagram.com,Facebook
+HOST-SUFFIX,instagram.com,Facebook
+HOST-SUFFIX,facebook.com,Facebook
 HOST-SUFFIX,fb.com,Facebook
 HOST-SUFFIX,fb.me,Facebook
 HOST-SUFFIX,fbaddins.com,Facebook
 HOST-SUFFIX,fbcdn.net,Facebook
 HOST-SUFFIX,fbsbx.com,Facebook
 HOST-SUFFIX,fbworkmail.com,Facebook
-HOST-SUFFIX,instagram.com,Facebook
 HOST-SUFFIX,m.me,Facebook
 HOST-SUFFIX,messenger.com,Facebook
 HOST-SUFFIX,oculus.com,Facebook
